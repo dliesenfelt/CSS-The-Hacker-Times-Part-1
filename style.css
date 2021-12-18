@@ -84,18 +84,18 @@ main p {
 section {
     text-align: justify;
     width: 50%;
-    margin: 1.5em;
+    margin: 1em;
 
 }
 
 section h4 {
     font-family: 'Roboto Slab';
-    font-size: 1.5em;
+    font-size: 1.em;
 
 }
 
 section p {
-    font-size: 1.25em;
+    font-size: 1em;
     padding: 0 1em 0 1em;
 }
 
